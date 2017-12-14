@@ -1,0 +1,1 @@
+kafka 0.10 can't consum data that is produced by kafka 0.80，so I write some code to solve this problem。
